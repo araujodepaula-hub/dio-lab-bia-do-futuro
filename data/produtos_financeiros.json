@@ -1,25 +1,37 @@
 [
   {
     "nome": "Tesouro Selic",
-    "categoria": "renda_fixa",
+    "categoria": "renda fixa",
     "risco": "baixo",
     "rentabilidade": "100% da Selic",
+    "liquidez": "diária",
     "aporte_minimo": 30.00,
     "indicado_para": "Reserva de emergência e iniciantes"
   },
   {
     "nome": "CDB Liquidez Diária",
-    "categoria": "renda_fixa",
+    "categoria": "renda fixa",
     "risco": "baixo",
     "rentabilidade": "102% do CDI",
+    "liquidez": "diária",
     "aporte_minimo": 100.00,
     "indicado_para": "Quem busca segurança com rendimento diário"
   },
   {
+    "nome": "CDB - Prazo Fixo",
+    "categoria": "renda fixa",
+    "risco": "baixo",
+    "rentabilidade": "120% do CDI",
+    "liquidez": "30/04/2027",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem busca segurança e pode aguardar até o vencimento (1 ano)"
+  },
+  {
     "nome": "LCI/LCA",
-    "categoria": "renda_fixa",
+    "categoria": "renda fixa",
     "risco": "baixo",
     "rentabilidade": "95% do CDI",
+    "liquidez": "90 dias",
     "aporte_minimo": 1000.00,
     "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
   },
@@ -28,14 +40,16 @@
     "categoria": "fundo",
     "risco": "medio",
     "rentabilidade": "CDI + 2%",
+    "liquidez": "30 dias",
     "aporte_minimo": 500.00,
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
     "nome": "Fundo de Ações",
-    "categoria": "fundo",
+    "categoria": "renda variável",
     "risco": "alto",
     "rentabilidade": "Variável",
+    "liquidez": "30 dias",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   }
