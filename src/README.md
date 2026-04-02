@@ -2,7 +2,7 @@
 
 Esta pasta contém o código do seu agente financeiro.
 
-## Estrutura Sugerida
+## Estrutura da Aplicação
 
 ```
 src/
