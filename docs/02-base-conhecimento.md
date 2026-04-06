@@ -16,7 +16,8 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+- O arquivo de transações foi removido, pois não será necessário para o contexto do agente.
+- No arquivo de produtos financeiros foi inserida a informação de liquidez e um novo produto (CDB - Prazo Fixo)
 
 ---
 
